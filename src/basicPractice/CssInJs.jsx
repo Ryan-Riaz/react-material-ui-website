@@ -14,7 +14,7 @@ const useStyles = makeStyles((theme) => ({
 		justifyContent: "spaceBetween",
 	},
 	myClass: {
-		backgroundColor: theme.palette.secondary.main,
+		backgroundColor: theme.palette.info.main,
 		boxShadow: theme.shadows[5],
 		color: "white",
 		padding: 20,
