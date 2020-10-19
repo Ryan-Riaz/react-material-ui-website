@@ -1,11 +1,12 @@
 import React from "react";
-
 import "./styles/App.css";
+
+import CssInJs from "./basicPractice/CssInJs";
 
 function App() {
 	return (
-		<div className="App">
-			<h1>Hello World</h1>
+		<div>
+			<CssInJs />
 		</div>
 	);
 }
