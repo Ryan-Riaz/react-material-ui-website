@@ -1,10 +1,11 @@
 import React from "react";
+import IconComp from "./basicPractice/Icons";
 import "./styles/App.css";
 
 function App() {
 	return (
 		<div>
-			<h1>Hello Developer</h1>
+			<IconComp />
 		</div>
 	);
 }
