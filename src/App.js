@@ -1,11 +1,11 @@
 import React from "react";
-import IconComp from "./basicPractice/Icons";
+import Grids from "./basicPractice/Grids";
 import "./styles/App.css";
 
 function App() {
 	return (
 		<div>
-			<IconComp />
+			<Grids />
 		</div>
 	);
 }
